@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://filipealvesdef.github.io/yellowball-game-yt/index.html">
-    <img src="https://github.com/filipealvesdef/yellowball-game-yt/blob/master/yellowball-preview.gif?raw=true">
-  </a>
-</p>
+<a href="">
+
 
 # Yellowball Runner
 
